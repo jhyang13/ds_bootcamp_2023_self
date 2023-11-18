@@ -1,2 +1,2 @@
 # ds_bootcamp_2023_projects
-NU-DATA-SCIENCE_PROJECTS
+NU-DATA-SCIENCE Projects + Lecture Notes
